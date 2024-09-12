@@ -1,0 +1,14 @@
+C:\Users\luisd\Documents\csharp\math_game\bin\Debug\net8.0\math_game.exe
+C:\Users\luisd\Documents\csharp\math_game\bin\Debug\net8.0\math_game.deps.json
+C:\Users\luisd\Documents\csharp\math_game\bin\Debug\net8.0\math_game.runtimeconfig.json
+C:\Users\luisd\Documents\csharp\math_game\bin\Debug\net8.0\math_game.dll
+C:\Users\luisd\Documents\csharp\math_game\bin\Debug\net8.0\math_game.pdb
+C:\Users\luisd\Documents\csharp\math_game\obj\Debug\net8.0\math_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisd\Documents\csharp\math_game\obj\Debug\net8.0\math_game.AssemblyInfoInputs.cache
+C:\Users\luisd\Documents\csharp\math_game\obj\Debug\net8.0\math_game.AssemblyInfo.cs
+C:\Users\luisd\Documents\csharp\math_game\obj\Debug\net8.0\math_game.csproj.CoreCompileInputs.cache
+C:\Users\luisd\Documents\csharp\math_game\obj\Debug\net8.0\math_game.dll
+C:\Users\luisd\Documents\csharp\math_game\obj\Debug\net8.0\refint\math_game.dll
+C:\Users\luisd\Documents\csharp\math_game\obj\Debug\net8.0\math_game.pdb
+C:\Users\luisd\Documents\csharp\math_game\obj\Debug\net8.0\math_game.genruntimeconfig.cache
+C:\Users\luisd\Documents\csharp\math_game\obj\Debug\net8.0\ref\math_game.dll
